@@ -1,7 +1,7 @@
 sslh
 ========
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/pety3bi/sslh.svg)](https://hub.docker.com/r/pety3bi/sslh/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jpelzer/sslh.svg)](https://hub.docker.com/r/jpelzer/sslh/)
 
 Docker image containing sslh with some configs. Based on alpine image.
 
